@@ -26,7 +26,7 @@ The dataset includes:
 
 ## 🧠 Machine Learning Model
 Algorithm Used: Logistic  Regression 
-![ml]("C:\Users\rushi\OneDrive\Desktop\Image\Student Performance Graph.png")
+![ml](https://github.com/rushikeshwalode06-cod/Student_Performance/blob/main/Student%20Performance%20Graph.png?raw=true)
 
 ## Model Evaluation:
  R² Score
