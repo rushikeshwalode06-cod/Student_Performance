@@ -7,6 +7,8 @@ This project predicts student performance based on factors like study hours, att
 This project predicts student performance based on factors like study hours, attendance, and marks.
 It uses Machine Learning algorithms to analyze patterns and generate accurate predictions, helping educators support students effectively.
 
+![ml](https://github.com/rushikeshwalode06-cod/Student_Performance/blob/main/Student%20performance.png?raw=true)
+
 ## 🚀 Features
 1. Predict student performance easily
 2. Simple and user-friendly inputs
