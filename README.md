@@ -57,3 +57,5 @@ The dataset includes:
 
 ## 📌 Conclusion
 This project demonstrates how machine learning can be used to analyze and predict student performance based on factors like study hours, attendance, and marks. The model helps identify patterns in student data and provides accurate predictions, enabling educators to recognize weak areas and take timely actions to improve overall academic performance.
+
+![ml](https://github.com/rushikeshwalode06-cod/Student_Performance/blob/main/student_image.png?raw=true)
