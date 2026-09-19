@@ -1,5 +1,6 @@
 # 🎓 Student-Performance
-This project predicts student performance based on factors like study hours, attendance, marks .  It uses machine learning algorithms to analyze patterns and provide accurate predictions, helping educators identify weak areas and improve student outcomes.
+
+This project predicts student performance (Pass/Fail) using Study Hours, Attendance, and Marks as input features. A Logistic Regression machine learning model is trained on the student dataset, and its performance is evaluated using a Confusion Matrix and Classification Report. The project also provides a simple prediction function where users can enter student details and get the predicted result.
 
 # 🎓 Student Performance Prediction using Machine Learning
 ## 📌 Project Overview
